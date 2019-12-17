@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/carchive/static/css/main.629361fc.chunk.css",
+    "main.js": "/carchive/static/js/main.944c5a49.chunk.js",
+    "main.js.map": "/carchive/static/js/main.944c5a49.chunk.js.map",
+    "runtime-main.js": "/carchive/static/js/runtime-main.5499c594.js",
+    "runtime-main.js.map": "/carchive/static/js/runtime-main.5499c594.js.map",
+    "static/js/2.790c531d.chunk.js": "/carchive/static/js/2.790c531d.chunk.js",
+    "static/js/2.790c531d.chunk.js.map": "/carchive/static/js/2.790c531d.chunk.js.map",
+    "index.html": "/carchive/index.html",
+    "precache-manifest.1e72890adcf50ebea64456c32f6d6d1f.js": "/carchive/precache-manifest.1e72890adcf50ebea64456c32f6d6d1f.js",
+    "service-worker.js": "/carchive/service-worker.js",
+    "static/css/main.629361fc.chunk.css.map": "/carchive/static/css/main.629361fc.chunk.css.map",
+    "static/js/2.790c531d.chunk.js.LICENSE": "/carchive/static/js/2.790c531d.chunk.js.LICENSE",
+    "static/media/App.css": "/carchive/static/media/RacingSansOne-Regular.3a9a8f7e.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5499c594.js",
+    "static/js/2.790c531d.chunk.js",
+    "static/css/main.629361fc.chunk.css",
+    "static/js/main.944c5a49.chunk.js"
+  ]
+}
